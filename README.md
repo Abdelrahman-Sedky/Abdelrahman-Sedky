@@ -15,23 +15,23 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo"  />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
 ###
@@ -42,11 +42,23 @@
 
 <div align="center">
   <a href="mailto:abdelrahmanoda@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="66" height="50" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/abdelrahman-sedky/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="66" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="30" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<h2 align="center">GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Sedky&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Abdelrahman-Sedky&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Sedky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
